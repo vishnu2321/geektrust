@@ -1,0 +1,6 @@
+[submodule "adminui"]
+	path = adminui
+	url = https://github.com/vishnu2321/geektrust.git
+[submodule "falcone"]
+	path = falcone
+	url = https://github.com/vishnu2321/geektrust.git
